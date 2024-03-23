@@ -1,0 +1,1 @@
+# For this assignment at the University of Bedfordshire, we are assigned a project where we designed a Kiosk system as a group that allows students to access an electronic one stop service shop. It's not the best documentations produced. But a group of four of us to simultaneously managed and created our kiosk system. (Associated with University of Bedfordshire).
